@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^employers$ employer-page.php
+RewriteRule ^modifier$ modifier.php
+RewriteRule ^contrat$ contrat-page.php
+RewriteRule ^conger$ conger-page.php
+RewriteRule ^renouvellement$ renouvellement-page.php
+RewriteRule ^archive$ archive.php
+RewriteRule ^demission$ demission.php
+RewriteRule ^demisions$ demissions.php

@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteRule ^maladie$ maladie.php
+RewriteRule ^maternite$ maternite.php
+RewriteRule ^paternite$ paternite.php
+RewriteRule ^normal$ sans-solde.php
+RewriteRule ^acceuil$ index.php
+RewriteRule ^connexion$ connexion.php
+RewriteRule ^employer$ conecte.php
+RewriteRule ^employers$ employer-page.php
+RewriteRule ^modifier$ form-modifier.php
+RewriteRule ^contrat$ contrat-page.php
+RewriteRule ^conger$ conger-page.php
+RewriteRule ^renouvellement$ renouvellement-page.php
+RewriteRule ^renouvellement$ renouvellement-page.php
+RewriteRule ^archive$ archive.php
+RewriteRule ^demission$ demission.php
+RewriteRule ^demisions$ demissions.php

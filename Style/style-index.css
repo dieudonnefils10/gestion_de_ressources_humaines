@@ -1,0 +1,63 @@
+.container {
+    width: 800px !important;
+    margin-top: 2%;
+    background: #222;
+    border-radius: 23px;
+}
+
+.texte {
+    margin-top: 15%;
+}
+
+.button {
+    background: #ff3333 !important;
+}
+
+.connect {
+    width: 280px !important;
+    margin-left: 15%;
+}
+#nouveau{
+    width: 400px;
+    margin-left: 35%;
+}
+.modal-content{
+    border-radius: 20px !important;
+}
+
+.or {
+    padding-top: 30px;
+}
+p,
+h2,
+i {
+    color: #fff;
+    padding: 10px;
+}
+
+.deuxieme {
+    text-align: center;
+    background: #ff3333;
+    width: 100%;
+    padding-top: 100px;
+    border-radius: 100px 23px 23px 100px;
+    height: 500px;
+}
+
+.premier {
+    text-align: center;
+    padding: 50px;
+}
+.erreur{
+    background: rgb(53, 53, 179);
+    width: 280px;
+    margin-left: 15%;
+    border-radius: 20px;
+    color: #fff;
+}
+.error{
+    background: rgb(32, 153, 38);
+    width: 280px;
+    margin-left: 15%;
+    border-radius: 20px;
+}

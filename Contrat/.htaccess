@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteRule ^modifier$ update.php
+RewriteRule ^ajouter$ ajouter.php
+RewriteRule ^acceuil$ index.php
+RewriteRule ^connexion$ connexion.php
+RewriteRule ^employer$ conecte.php
+RewriteRule ^employers$ employer-page.php
+RewriteRule ^modifier$ form-modifier.php
+RewriteRule ^contrat$ contrat-page.php
+RewriteRule ^conger$ conger-page.php
+RewriteRule ^renouvellement$ renouvellement-page.php
+RewriteRule ^renouvellement$ renouvellement-page.php
+RewriteRule ^archive$ archive.php
+RewriteRule ^demission$ demission.php
+RewriteRule ^demisions$ demissions.php
